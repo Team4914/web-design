@@ -1,0 +1,24 @@
+* {
+     box-sizing: border-box;
+}
+ body {
+    font-family: 'Roboto', sans-serif;
+     padding: 20px;
+     background: #A8A8A8;
+}
+ .card {
+     background-color: #A8A8A8;
+     padding: 20px;
+     margin-top: 20px;
+}
+ .row:after {
+     content: "";
+     display: table;
+     clear: both;
+}
+ @media screen and (max-width: 800px) {
+     .leftcolumn, .rightcolumn {
+         width: 100%;
+         padding: 0;
+    }
+}
