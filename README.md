@@ -30,9 +30,11 @@ To *ADD* Sponsers:
 1. Go to https://github.com/Team4914/web-design/tree/master/VPCI-Robotics-Website-master/Website_Dependencies/Website_Images/Logos
 2. Upload a .PNG image and rename with an appropriate name. Then go to https://github.com/Team4914/web-design/blob/master/VPCI-Robotics-Website-master/Website_Dependencies/Image_Gallery/Sponsor_Images.html
 3. If applicable, declare a new row using 
+
 **_div class="w3-row-padding w3-center w3-section"_**
 
 **_/div_**
+
 4. Add in an image using
 
 **_div class="w3-col m3_**"
