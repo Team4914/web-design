@@ -11,9 +11,9 @@ To *EDIT* Gallery:
 3. Go to https://github.com/Team4914/web-design/blob/master/VPCI-Robotics-Website-master/Website_Dependencies/Image_Gallery/Image_Gallery.html
 4. Edit the alt next to the image id equivalent to the overwritten file to match the current season.
 e.g.
-/<img src="../Website_Images/Team_Photos/Robotics_8.JPG" onclick="onClick(this)" class="w3-hover-opacity" alt="Team 4914 @ Southwest International">/
+'<img src="../Website_Images/Team_Photos/Robotics_8.JPG" onclick="onClick(this)" class="w3-hover-opacity" alt="Team 4914 @ Southwest International">'
 If the photo is from DCMP, an example alt would be
-/<img src="../Website_Images/Team_Photos/Robotics_8.JPG" onclick="onClick(this)" class="w3-hover-opacity" alt="Team 4914 @ DCMP">/
+'<img src="../Website_Images/Team_Photos/Robotics_8.JPG" onclick="onClick(this)" class="w3-hover-opacity" alt="Team 4914 @ DCMP">'
 
 To *EDIT* Sponsers:
 
@@ -27,11 +27,11 @@ To *ADD* Sponsers:
 1. Go to https://github.com/Team4914/web-design/tree/master/VPCI-Robotics-Website-master/Website_Dependencies/Website_Images/Logos
 2. Upload a .PNG image and rename with an appropriate name. Then go to https://github.com/Team4914/web-design/blob/master/VPCI-Robotics-Website-master/Website_Dependencies/Image_Gallery/Sponsor_Images.html
 3. If applicable, declare a new row using 
-/<div class="w3-row-padding w3-center w3-section">
-</div>/
+'<div class="w3-row-padding w3-center w3-section">'
+'</div>'
 4. Add in an image using
-/<div class="w3-col m3">
-  <img src="../Website_Images/Logos/REPLACE_WITH_PNG_NAME.PNG" onclick="onClick(this)" class="w3-hover-opacity" alt="">
-</div>/
+'<div class="w3-col m3">'
+  '<img src="../Website_Images/Logos/REPLACE_WITH_PNG_NAME.PNG" onclick="onClick(this)" class="w3-hover-opacity" alt="">'
+'</div>'
 
 
